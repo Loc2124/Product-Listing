@@ -45,3 +45,4 @@ C:\Workspace\dotnet\ProductApi\obj\Debug\net9.0\refint\ProductApi.dll
 C:\Workspace\dotnet\ProductApi\obj\Debug\net9.0\ProductApi.pdb
 C:\Workspace\dotnet\ProductApi\obj\Debug\net9.0\ProductApi.genruntimeconfig.cache
 C:\Workspace\dotnet\ProductApi\obj\Debug\net9.0\ref\ProductApi.dll
+C:\Workspace\dotnet\ProductApi\obj\Debug\net9.0\ProductApi.sourcelink.json
